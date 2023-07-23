@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container{
+    margin-top: 2rem;
+    border: solid 2px black;
+}
+
+.title{
+    background-color: aquamarine;
+}
+
+form{
+    margin: 0px;
+    padding: 0px;
+}
