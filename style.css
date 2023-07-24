@@ -10,10 +10,33 @@
 }
 
 .title{
-    background-color: aquamarine;
+    background-color: rgb(206, 199, 199);
+    border: solid 1px black;
+    margin-bottom: 3em;
 }
 
-form{
-    margin: 0px;
-    padding: 0px;
+.button{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    background-color: rgb(206, 199, 199);
 }
+ 
+  
+  input{
+    border: 2px solid black;
+    margin: 5px;
+  }
+
+  label{
+    margin: 5px;
+  }
+
+  button{
+    margin-left: 1em !important;
+  }
+  
+
+  .form-check-input{
+    margin: 10px;
+  }
